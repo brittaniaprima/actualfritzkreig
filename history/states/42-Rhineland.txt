@@ -11,8 +11,8 @@ state = {
 
 	history = {
 
-		owner = GER
-		add_core_of = GER
+		owner = DEU
+		add_core_of = DEU
 		add_core_of = RHI
 		add_core_of = PRE
 
@@ -37,8 +37,7 @@ state = {
 			industrial_complex = 3
 		}
 	
-
-		1939.1.1 = {
+				1939.1.1 = {
 			buildings = {
 				radar_station = 1
 				synthetic_refinery = 3

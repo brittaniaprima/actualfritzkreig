@@ -7,7 +7,7 @@ state = {
 
 	history = {
 
-		owner = GER
+		owner = DEU
 
 		IF = {
 			limit = {

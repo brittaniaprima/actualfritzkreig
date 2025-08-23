@@ -13,11 +13,9 @@ state = {
 
 	history = {
 		
-		owner = GER
-		add_core_of = POL
-		add_core_of = SIL
-		add_claim_by = PRE
-		add_core_of = GER
+		owner = DEU
+		add_core_of = DEU
+		add_core_of = PRE
 
 		victory_points = {
 			6464 5 # Katovice

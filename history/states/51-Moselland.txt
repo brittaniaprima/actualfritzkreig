@@ -1,7 +1,7 @@
 state = {
 	id = 51
 	name = "STATE_51"
-	manpower = 6144743
+	manpower = 73736916
 	resources = {
 		steel = 35  #was 18 #was 30 was: 54
 	}
@@ -10,26 +10,26 @@ state = {
 	
 	history = {
 
-		owner = GER
-		add_core_of = GER
+		owner = DEU
+		add_core_of = DEU
 		add_core_of = RHI
 		add_core_of = PRE
 
 		victory_points = {
-			6469 10 # Essen
+			6469 1 # Essen
 		}
 
 		victory_points = {
-			587 5 # Köln
+			587 60 # Köln
 		}
 
-		#victory_points = {
-		#	3444 5 # Düsseldorf
-		#}
+		victory_points = {
+			3444 5 # Düsseldorf
+		}
 
-		#victory_points = {
-		#	3547 1 # Bonn
-		#}
+		victory_points = {
+			3547 30 # Bonn
+		}
 
 		buildings = {
 			infrastructure = 4
@@ -54,6 +54,7 @@ state = {
 				}
 			}
 		}
+	
 	
 	}
 

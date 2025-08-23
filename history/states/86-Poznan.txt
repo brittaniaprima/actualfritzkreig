@@ -7,10 +7,9 @@ state = {
 	state_category = city
 	history = {
 
-		owner = GER
-		add_core_of = POL
-		add_core_of = GER
-		add_claim_by = PRE
+		owner = DEU
+		add_core_of = DEU
+		add_core_of = PRE
 
 		victory_points = {
 			6558 10 # Poznan
@@ -35,7 +34,7 @@ state = {
 		}
 		
 		1938.3.12 = {
-			add_claim_by = GER
+			add_claim_by = DEU
 		}
 	}
 

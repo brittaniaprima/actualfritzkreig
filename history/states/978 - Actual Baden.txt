@@ -11,8 +11,8 @@ state = {
 
 	history = {
 
-		owner = GER
-		add_core_of = GER
+		owner = DEU
+		add_core_of = DEU
 		add_core_of = WUR
 
 		victory_points = {
@@ -33,7 +33,7 @@ state = {
 			air_base = 1
 		}
 
-		
+				
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 3

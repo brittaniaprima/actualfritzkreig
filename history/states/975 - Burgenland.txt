@@ -1,29 +1,28 @@
 state = {
-	id = 188
-	name = "STATE_188"
-	manpower = 150000
+	id = 975
+	name = "STATE_975"
+	manpower = 298000
+
+	resources = {
+	}
 	
 	state_category = rural
 	
 	history = {
 
-		owner = DEU
-		add_core_of = DEU
-		add_core_of = PRE
+		owner = AUS
+		add_core_of = AUS
 
 		victory_points = {
-			3288 3 # Klaipeda/Memel
+			3700 1 
 		}
-		
+
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 1
 			industrial_complex = 1
-			3288 = {
-				naval_base = 1
-			}
 		}
 		
-		1939.3.22 = {
+		1938.3.12 = {
 			owner = DEU
 			controller = DEU
 			add_core_of = DEU
@@ -32,7 +31,8 @@ state = {
 	}
 
 	provinces = {
-		3288 	
+		3700 9661 11630
 	}
+
 	local_supplies = 0.0 
 }

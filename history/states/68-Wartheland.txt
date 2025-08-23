@@ -1,37 +1,32 @@
 state = {
-	id = 85
-	name = "STATE_85"
-	manpower = 366730
-	
+	id = 68
+	name = "STATE_68"
+	manpower = 1250840
+	resources = {
+		aluminium = 15 # was: 24
+	}
+
 	state_category = city
 
 	history = {
 
 		owner = DEU
 		add_core_of = DEU
-		add_core_of = RHI
+		add_core_of = PRE
 
 		victory_points = {
-			362 10 # Danzig
-		}
-				
-		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 1
-			dockyard = 3
-			362 = {
-				naval_base = 5
-			}
+			3473 1 # Küstrin
 		}
 		
-		1938.3.12 = {
-			add_claim_by = DEU
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
 		}
+		
 	}
 
 	provinces = {
-		362
+		444 537 3473 3572 6236 9387 11478 
 	}
 
 	local_supplies = 0.0 

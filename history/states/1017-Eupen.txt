@@ -10,8 +10,8 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		owner = GER
-		add_core_of = GER
+		owner = DEU
+		add_core_of = DEU
 		add_claim_by = BEL
 	}
 	buildings_max_level_factor=1.000

@@ -1,0 +1,7 @@
+UGP_ENG = {
+    color = rgb { 255 1 255 }
+    color_ui = rgb { 255 1 255 }
+}
+
+
+

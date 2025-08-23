@@ -1,0 +1,14 @@
+﻿l_english:
+  VL_name: "None"
+  VL_state: ""
+  VL_Dip_state: ""
+  VL_desc: ""
+  UIDescNull: ""
+
+  DEU_Soul: "Aria von Deutschland"
+  VL_name_DEU_Soul: "$DEU_Soul$"
+  VL_trait_DEU_Soul: "§Y$popular_figurehead$§!\n  - $MODIFIER_STABILITY_FACTOR$: §G+15.00%§!"
+  VL_state_DEU_Soul: "§Y$DEU_Soul$§!\n$VL_trait_DEU_Soul$"
+  VL_Dip_state_DEU_Soul: "§Y$DEU_Soul$§!\n$GetDipStatus$\n$VL_trait_DEU_Soul$"
+  VL_desc_DEU_Soul: "Soul of Germany, she represents the whole German state, as the manifestation of the German thoughts"
+  DEU_VL_DEU_Soul: "$DEU_Soul$"
