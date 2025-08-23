@@ -210,6 +210,7 @@ add_ideas = {
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
+	DEU_VL_Gustav_Stresemann
 }
 
 
