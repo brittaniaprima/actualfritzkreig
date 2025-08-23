@@ -1,0 +1,44 @@
+defined_text = {
+    name = DEU_VL_picture
+	text = {
+		trigger = { has_idea = DEU_VL_Soul }
+		localization_key = GFX_aria_von_deutschland
+    }
+	text = { localization_key = GFX_leader_unknown }
+}
+
+defined_text = {
+    name = DEU_VL_name
+	text = {
+		trigger = { has_idea = DEU_VL_Soul }
+		localization_key = VL_name_DEU_Soul
+    }
+	text = { localization_key = VL_name }
+}
+
+defined_text = {
+    name = DEU_VL_state
+	text = {
+		trigger = { has_idea = DEU_VL_Soul }
+		localization_key = VL_state_DEU_Soul
+    }
+	text = { localization_key = VL_state }
+}
+
+defined_text = {
+    name = DEU_VL_Dip_state
+	text = {
+		trigger = { has_idea = DEU_VL_Soul }
+		localization_key = VL_Dip_state_DEU_Soul
+    }
+	text = { localization_key = VL_Dip_state }
+}
+
+defined_text = {
+    name = DEU_VL_desc
+	text = {
+		trigger = { has_idea = DEU_VL_Soul }
+		localization_key = VL_desc_DEU_Soul
+    }
+	text = { localization_key = VL_desc }
+}

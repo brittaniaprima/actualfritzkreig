@@ -1,0 +1,16 @@
+ideas = {
+	country = {
+            DEU_VL_Soul = {
+                #picture = 
+                allowed = {
+                    always = yes
+                }
+                allowed_civil_war = {
+                    always = no
+                }                
+                traits = { popular_figurehead }
+  
+        }
+    }
+}
+    
