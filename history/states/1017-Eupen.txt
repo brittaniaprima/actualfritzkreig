@@ -1,0 +1,19 @@
+state={
+	id=1017
+	name="STATE_1017"
+	provinces={
+		3488 
+	}
+	manpower=11234
+	state_category = rural
+	history = {
+		buildings = {
+			infrastructure = 2
+		}
+		owner = GER
+		add_core_of = GER
+		add_claim_by = BEL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
