@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1924.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "DEU"
 		default = yes
 		
 		"FRA"={
@@ -82,35 +82,25 @@ bookmarks = {
 			}
 		}
 
-		GER = {
+		DEU = {
 			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
+
 			available = { has_dlc = "Gotterdammerung" }
 			ideas = {
 				GER_mefo_bills_1936_fake_ns
-				GER_army_1936_fake_ns
-				GER_airforce_fake_ns
+
 			}
 			focuses = {
-				GER_fuhrerprinzip
-				GER_the_peoples_victory
-				GER_glory_to_the_imperial_army
+
 			}
 		}
 
-		GER = {
+		DEU = {
 			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
 			available = { NOT = { has_dlc = "Gotterdammerung" } }
 			ideas = {
-				GER_mefo_bills_1936_fake_ns
-				GER_army_1936_fake_ns
-				GER_airforce_fake_ns
 			}
 			focuses = {
-				GER_fuhrerprinzip
-				GER_revive_the_kaiserreich
-				GER_reestablish_free_elections
 			}
 		}
 
