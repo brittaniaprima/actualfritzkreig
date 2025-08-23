@@ -1,0 +1,9 @@
+﻿l_english:
+   monarchism:0 "Monarchist"
+   monarchism_noun:0 "Monarchism"
+   monarchism_desc:0 "Totalitarian Regime"
+
+   monarchy:0 "Monarchy"
+   monarchy_desc:0 "A Monarchist believes in the rule of a single person, usually a king or queen, who has absolute power over the state. Monarchists often support the idea of a hereditary monarchy, where the position is passed down through a royal family"
+   DEU_monarchism_party:0 "House of Dede"
+   #DEU_monarchism_party_desc:0 ""

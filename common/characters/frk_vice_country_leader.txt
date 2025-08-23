@@ -1,0 +1,21 @@
+characters = {
+
+#Keiser this is jsut an exsaple 
+#	country_leader_luna_dede = {
+#		gender = Male
+#		name = country_leader_luna_dede
+#		portraits = {
+#			civilian = {
+#				large = 
+#			}
+#		}
+#	
+#		country_leader = {
+#			ideology = mkt_lib
+#			traits = { GER_der_fuhrer }
+#			id = 69420
+#			desc = vice_country_leader_Gustav_Stresemann
+#		}
+#	}
+
+}

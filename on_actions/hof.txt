@@ -2,9 +2,8 @@ on_actions = {
     on_startup = {
         effect = {
             DEU = {
-                set_variable = { VL_status_var = 12 }
-                add_ideas = DEU_VL_Soul
-                country_event = { id = deutschland.1 days = 5} # Fires in 90-100 days
+                set_variable = { VL_status_var = 8 }
+                add_ideas = DEU_VL_Gustav_Stresemann
             
             }
         }

@@ -1,0 +1,7 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_Gustav_Stresemann
+        texturefile = gfx/leaders/DEU/Portrait_ger_gustav_stresemann.dds
+    }
+}
+

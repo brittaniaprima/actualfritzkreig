@@ -300,7 +300,6 @@ ideologies = {
 		ai_give_core_state_control_threshold = 10000 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
 	}
 
-
 	vanguard = {
 
 		types = {
@@ -406,7 +405,7 @@ ideologies = {
 		ai_give_core_state_control_threshold = 10
 	}
 
-		syn = {
+	syn = {
 
 		types = {
 

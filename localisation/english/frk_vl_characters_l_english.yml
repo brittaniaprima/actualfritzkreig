@@ -1,0 +1,14 @@
+﻿l_english:
+  VL_name: "None"
+  VL_state: ""
+  VL_Dip_state: ""
+  VL_desc: ""
+  UIDescNull: ""
+
+  DEU_Gustav_Stresemann: "Gustav Stresemann"
+  VL_name_Gustav_Stresemann: "$Gustav_Stresemann$"
+  VL_trait_Gustav_Stresemann: "§Y$popular_figurehead$§!\n  - $MODIFIER_STABILITY_FACTOR$: §G+15.00%§!"
+  VL_state_Gustav_Stresemann: "§Y$Gustav_Stresemann$§!\n$VL_trait_Gustav_Stresemann$"
+  VL_Dip_state_Gustav_Stresemann: "§Y$Gustav_Stresemann$§!\n$GetDipStatus$\n$VL_trait_Gustav_Stresemann$"
+  VL_desc_Gustav_Stresemann: "to be written. this is in the /localisation/english/frk_vl_characters_l_english.yml file"
+  DEU_VL_Gustav_Stresemann: "$Gustav_Stresemann$"
