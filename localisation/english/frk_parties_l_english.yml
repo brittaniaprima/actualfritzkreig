@@ -36,13 +36,13 @@
    DEU_democratic_party_long:0 "Sozialdemokratische Partei Deutschlands"
 
    DEU_mkt_lib_party:0 "DFLP"
-   DEU_mkt_lib_party_long:0 "Deutsche Fortschrittliche Liberale Partei"
+   DEU_mkt_lib_party_long:0 "Deutsche Freie Liberale Partei"
 
-   DEU_soc_lib_party:0 "LAP"
-   DEU_soc_lib_party_long:0 "Liberale Allianz Partei"
+   DEU_soc_lib_party:0 "LAP/DFLP"
+   DEU_soc_lib_party_long:0 "Liberale ArbeitsPartei/Deutsche Freie Liberale Partei"
    
    DEU_nat_con_party:0 "PdDE"
-   DEU_nat_con_party_long:0 "Partei der Deutschen Einigkeit"
+   DEU_nat_con_party_long:0 "Partei der Deutschen Einheit"
    
    DEU_rad_soc_party:0 "SPD Left"
    DEU_rad_soc_party_long:0 "Sozialdemokratische Partei Deutschlands"
@@ -51,5 +51,19 @@
    DEU_syn_party_long:0 "Socialdemokratiesche Partei Deutschlands"
 
    DEU_nat_syn_party:0 "NSGP"
+<<<<<<< Updated upstream
    DEU_nat_syn_party_long:0 "Nationalsozialistische Germanische Partei"
+=======
+   DEU_nat_syn_party_long:0 "Nationalsyndikalistische Germanische Partei"
+
+   DEU_communism_party:0 "SPD left"
+   DEU_communism_party_long:0 "Socialdemokratiesche Partei Deutschlands"
+
+   DEU_fascism_party:0 "PdDE"
+   DEU_fascism_party_long:0 "Nationalsozialistische Germanische Partei"
+
+   DEU_neutrality_party:0 "DNdP/Z"
+   DEU_neutrality_party_long:0 "Deutsch Nationaldemokratische Partei/Zentrumspartei"
+
+>>>>>>> Stashed changes
 
