@@ -1,16 +1,15 @@
 ideas = {
-	country = {
-            DEU_VL_Kaiser_Wilhelm = {
-                #picture = 
-                allowed = {
-                    always = yes
-                }
-                allowed_civil_war = {
-                    always = no
-                }                
-                traits = { popular_figurehead }
-  
+	hidden_ideas = {
+        DEU_VL_Kaiser_Wilhelm = {
+            #picture = 
+            allowed = {
+                always = yes
+            }
+            allowed_civil_war = {
+                always = no
+            }                
+            traits = { popular_figurehead }
+
         }
     }
 }
-    

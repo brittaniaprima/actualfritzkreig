@@ -1,0 +1,31 @@
+ideas = {
+	country = {
+        DEU_pacifist_government = {
+            #picture =               
+            modifier= {
+                war_support_weekly_factor = -0.5
+            }
+        }
+
+        DEU_industrial_menace = {
+            #picture = 
+            modifier{
+                production_speed_buildings_factor = 0.5
+            }
+        }
+        DEU_mass_strikes = {
+            #picture = 
+            modifier{
+                consumer_goods_factor = 1
+                stability_weekly_factor = -0.4
+            }
+        }
+        DEU_mercenary_armies = {
+            #picture = 
+            modifier{
+                conscription_factor = -0.3
+            }
+        }
+    }
+}
+    

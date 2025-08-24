@@ -26,6 +26,7 @@
    
    nat_syn:0 "National Syndicalism"
    nat_syn_desc:0 "Revolutionary Regime"
+   
    national_syndicalism:0 "National Syndicalism" 
    national_syndicalism_desc:0 "National Syndicalism is a far-right political ideology that combines elements of nationalism and syndicalism. It advocates for a corporatist economic system where industries are organized into syndicates representing workers and employers, under the control of a strong, authoritarian state that promotes national unity and traditional values."
 
@@ -51,7 +52,4 @@
 
    DEU_nat_syn_party:0 "NSGP"
    DEU_nat_syn_party_long:0 "Nationalsozialistische Germanische Partei"
-
-
-
 
