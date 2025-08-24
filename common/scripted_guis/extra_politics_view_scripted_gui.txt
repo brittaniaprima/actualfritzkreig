@@ -84,7 +84,7 @@ scripted_gui = {
 		parent_window_token = politics_tab
 		window_name = "country_chart_hide"
 		
-		visible = { always = yes }
+		visible = { always = no }
 	}
 }
 
