@@ -211,6 +211,10 @@ add_ideas = {
 	limited_conscription
 	partial_economic_mobilisation
 	DEU_VL_Kaiser_Wilhelm
+	DEU_pacifist_government
+	DEU_industrial_menace
+	DEU_mass_strikes
+	DEU_mercenary_armies
 }
 
 
