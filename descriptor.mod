@@ -8,5 +8,6 @@ tags={
 	"National Focuses"
 	"Graphics"
 }
+replace_path = "gfx/loadingscreens"
 name="The Fritzkrieg"
 supported_version="1.16.9"

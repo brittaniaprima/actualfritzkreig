@@ -6,7 +6,18 @@ ideologies = {
 
 			social_democratic = {
 			}
+			
+			conservatism = {
+			}
 
+			liberalism = {
+			}
+
+			socialism = {
+			}
+
+			populism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -60,11 +71,31 @@ ideologies = {
 		ai_give_core_state_control_threshold = 0 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
 	}
 
-	soc_con = {
+	neutrality = {
 
 		types = {
 
 			social_conservatism = {
+			}
+
+			despotism  = {
+				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+			}
+
+			oligarchism  = {
+				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+			}
+
+			anarchism = {
+				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+			}
+
+			moderatism = {
+				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+			}
+
+			centrism = {
+				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
 
 		}
@@ -308,6 +339,18 @@ ideologies = {
 			}
 
 			vanguardism = {
+			}
+					
+			leninism = {
+			}
+
+			stalinism = {
+			}
+
+			anti_revisionism = {
+			}
+
+			anarchist_communism = {
 			}
 
 		}

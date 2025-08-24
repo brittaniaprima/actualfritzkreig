@@ -193,7 +193,7 @@ set_popularities = {
 	democratic = 13
 	soc_con = 20
 	nat_con = 14
-	fascisism = 9
+	fascism = 9
 	communism = 3
 	rad_soc = 8
 	syn = 4
@@ -901,6 +901,3 @@ if = {
 		icon = "GFX_GER_naval_bomber1_medium"
 	}
 }
-=-
-
-p
