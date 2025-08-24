@@ -52,8 +52,11 @@
 
    DEU_nat_syn_party:0 "NSGP"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
    DEU_nat_syn_party_long:0 "Nationalsozialistische Germanische Partei"
 =======
+=======
+>>>>>>> Stashed changes
    DEU_nat_syn_party_long:0 "Nationalsyndikalistische Germanische Partei"
 
    DEU_communism_party:0 "SPD left"
@@ -61,6 +64,12 @@
 
    DEU_fascism_party:0 "PdDE"
    DEU_fascism_party_long:0 "Nationalsozialistische Germanische Partei"
+<<<<<<< Updated upstream
+=======
+
+   DEU_neutrality_party:0 "DNdP/Z"
+   DEU_neutrality_party_long:0 "Deutsch Nationaldemokratische Partei/Zentrumspartei"
+>>>>>>> Stashed changes
 
    DEU_neutrality_party:0 "DNdP/Z"
    DEU_neutrality_party_long:0 "Deutsch Nationaldemokratische Partei/Zentrumspartei"
