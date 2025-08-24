@@ -182,7 +182,7 @@ set_war_support = 0.3
 # Setup German Politics
 set_politics = {
 	ruling_party = mkt_lib
-	last_election = "1921.1.1"
+	last_election = "1921.4.18"
 	election_frequency = 36
 	elections_allowed = yes
 }
