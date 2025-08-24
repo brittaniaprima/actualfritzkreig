@@ -1,6 +1,6 @@
 #reload countrycolors
 DEU = {
 	color = rgb { 100 100 100 }
-	color_ui = rgb { 155 155 153 }
+	color_ui = rgb { 100 100 100 }
 }
 
