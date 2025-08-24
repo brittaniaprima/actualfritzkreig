@@ -1,6 +1,6 @@
 ideas = {
 	country = {
-            DEU_VL_Gustav_Stresemann = {
+            DEU_VL_Kaiser_Wilhelm = {
                 #picture = 
                 allowed = {
                     always = yes

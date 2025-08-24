@@ -3,5 +3,9 @@ spriteTypes = {
         name = GFX_Gustav_Stresemann
         texturefile = gfx/leaders/DEU/Portrait_ger_gustav_stresemann.dds
     }
+    spriteType = {
+        name = GFX_Kaiser_Wilhelm
+        texturefile = gfx/leaders/DEU/Portrait_ger_kaiser_wilhelm.dds
+    }
 }
 

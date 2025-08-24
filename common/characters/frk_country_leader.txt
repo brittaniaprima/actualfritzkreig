@@ -1,0 +1,27 @@
+characters = {
+#germany 
+    
+    # Gustav_Stresemann 
+    country_leader_gustav_stresemann = {
+        gender = Male
+        name = country_leader_gustav_stresemann
+        portraits = {
+            civilian = {
+                large = GFX_Gustav_Stresemann
+            }
+        }
+    
+        country_leader = {
+            ideology = market_liberalism
+            id = 69420
+            desc = country_leader_gustav_stresemann_desc
+        }
+    }
+
+# uk
+
+# france
+
+# China
+
+}
