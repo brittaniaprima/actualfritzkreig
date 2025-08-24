@@ -190,7 +190,7 @@ set_politics = {
 set_popularities = {
 	mkt_lib = 13
 	soc_lib = 14
-	democracy = 13
+	democratic = 13
 	soc_con = 20
 	nat_con = 14
 	fascisism = 9
@@ -201,8 +201,8 @@ set_popularities = {
 }
 
 # Wowow nice faction
-create_faction = Axis
-add_to_faction = 
+create_faction = "The Central Powers"  
+add_to_faction = DEU
 
 # Setup of National Spirits
 add_ideas = {
