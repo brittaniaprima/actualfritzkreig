@@ -3,21 +3,24 @@ ideas = {
         DEU_pacifist_government = {
             #picture =               
             modifier= {
-                war_support_weekly_factor = -0.5
+                war_support_weekly_factor = -0.05
             }
         }
 
         DEU_industrial_menace = {
             #picture = 
             modifier{
-                production_speed_buildings_factor = 0.5
+                production_speed_buildings_factor = 0.25
+		industrial_capacity_factory = 0.05
+		production_speed_arms_factory_factor = 0.1
+		
             }
         }
         DEU_mass_strikes = {
             #picture = 
             modifier{
-                consumer_goods_factor = 1
-                stability_weekly_factor = -0.4
+                consumer_goods_factor = 0.45
+                stability_weekly_factor = -0.03
             }
         }
         DEU_mercenary_armies = {
