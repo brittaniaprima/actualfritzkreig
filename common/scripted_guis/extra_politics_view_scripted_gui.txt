@@ -36,7 +36,7 @@ scripted_gui = {
 		parent_window_token = politics_tab
 		window_name = "ruling_party_detail"
 		
-		visible = { always = no }
+		visible = { always = yes }
 	}
 }
 
@@ -84,7 +84,7 @@ scripted_gui = {
 		parent_window_token = politics_tab
 		window_name = "country_chart_hide"
 		
-		visible = { always = no }
+		visible = { always =  }
 	}
 }
 

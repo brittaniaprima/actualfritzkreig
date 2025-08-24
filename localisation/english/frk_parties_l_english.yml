@@ -1,9 +1,56 @@
 ﻿l_english:
-   monarchism:0 "Monarchist"
-   monarchism_noun:0 "Monarchism"
-   monarchism_desc:0 "Totalitarian Regime"
+   mkt_lib:0 "Market Liberalism"
+   mkt_lib_desc:0 "Democratic Regime"
+   market_liberalism:0 "Market Liberalism"
+   market_liberalism_desc:0 "Maket Liberalism is a democratic ideology that emphasizes free markets, individual liberties, and limited government intervention in the economy. It advocates for a capitalist economic system where private enterprise and competition drive economic growth and prosperity."
+   
+   soc_lib:0 "Social Liberalism"
+   soc_lib_desc:0 "Democratic Regime"
+   social_liberalism:0 "Social Liberalism"
+   social_liberalism_desc:0 "Social Liberalism is a democratic ideology that combines a commitment to individual liberties with a recognition of the need for social justice and government intervention to address economic and social inequalities. It advocates for a mixed economy, social welfare programs, and the protection of civil rights."
+   
+   nat_con:0 "National Conservatism"
+   nat_con_desc:0 "Conservative Regime"
+   national_conservatism:0 "National Conservatism"
+   national_conservatism_desc:0 "National Conservatism is a right-wing political ideology that emphasizes the preservation of national identity, traditional values, and social order. It advocates for a strong state, cultural homogeneity, and often supports protectionist economic policies to safeguard national interests."
+   
+   rad_soc:0 "Radical Socialism"
+   rad_soc_desc:0 "Revolutionary Regime"
+   radical_socialism:0 "Radical Socialism"
+   radical_socialism_desc:0 "Radical Socialism is a left-wing political ideology that advocates for the complete overhaul of the capitalist system and the establishment of a classless society. It emphasizes the need for collective ownership of the means of production, wealth redistribution, and social equality through revolutionary means."
 
-   monarchy:0 "Monarchy"
-   monarchy_desc:0 "A Monarchist believes in the rule of a single person, usually a king or queen, who has absolute power over the state. Monarchists often support the idea of a hereditary monarchy, where the position is passed down through a royal family"
-   DEU_monarchism_party:0 "House of Dede"
-   #DEU_monarchism_party_desc:0 ""
+   syn:0 "Syndicalism"
+   syn_desc:0 "Revolutionary Regime"
+   syndicalism:0 "Syndicalism"
+   syndicalism_desc:0 "Syndicalism is a revolutionary ideology that advocates for the control of industry and government by labor unions and worker cooperatives. It emphasizes direct action, such as strikes and workplace takeovers, to achieve economic democracy and social ownership of the means of production." 
+   
+   nat_syn:0 "National Syndicalism"
+   nat_syn_desc:0 "Revolutionary Regime"
+   national_syndicalism:0 "National Syndicalism" 
+   national_syndicalism_desc:0 "National Syndicalism is a far-right political ideology that combines elements of nationalism and syndicalism. It advocates for a corporatist economic system where industries are organized into syndicates representing workers and employers, under the control of a strong, authoritarian state that promotes national unity and traditional values."
+
+
+   DEU_democratic_party_short:0 "SPD Right"
+   DEU_democratic_party_long:0 "Sozialdemokratische Partei Deutschlands"
+
+   DEU_market_liberalism_party:0 "DFLP"
+   DEU_market_liberalism_party_long:0 "Deutsche Fortschrittliche Liberale Partei
+
+   DEU_social_liberalism_party:0 "LAP"
+   DEU_social_liberalism_party_long:0 "Liberale Allianz Partei"
+   
+   DEU_national_conservatism_party:0 "PdDE"
+   DEU_national_conservatism_party_long:0 "Partei der Deutschen Einigkeit"
+   
+   DEU_radical_socialism_party:0 "SPD Left"
+   DEU_radical_socialism_party_long:0 "Sozialdemokratische Partei Deutschlands"
+   
+   DEU_syndicalism_party:0 "SPD left"
+   DEU_syndicalism_party_long:0 "Socialdemokratiesche Partei Deutschlands"
+
+   DEU_national_syndicalism_party:0 "NSGP"
+   DEU_national_syndicalism_party_long:0 "Nationalsozialistische Germanische Partei"
+
+
+
+
