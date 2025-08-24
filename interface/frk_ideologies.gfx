@@ -5,39 +5,39 @@ spriteTypes = {
     }
     spriteType = {
         name = GFX_ideology_neutrality_group
-        texturefile= gfx/interface/soc_con_group.dds
+        texturefile= gfx/interface/ideologies/soc_con_group.dds
     }
     spriteType = {
         name = GFX_ideology_soc_lib_group
-        texturefile= gfx/interface/soc_lib_group.dds
+        texturefile= gfx/interface/ideologies/soc_lib_group.dds
     }
     spriteType = {
         name = GFX_ideology_mkt_lib_group
-        texturefile= gfx/interface/mkt_lib_group.dds
+        texturefile= gfx/interface/ideologies/mkt_lib_group.dds
     }
     spriteType = {
         name = GFX_ideology_nat_con_group
-        texturefile= gfx/interface/nat_con_group.dds
+        texturefile= gfx/interface/ideologies/nat_con_group.dds
     }
     spriteType = {
         name = GFX_ideology_communism_group
-        texturefile= gfx/interface/nat_con_group.dds
+        texturefile= gfx/interface/ideologies/nat_con_group.dds
     }
     spriteType = {
         name = GFX_ideology_soc_lib_group
-        texturefile= gfx/interface/vanguardism_group.dds
+        texturefile= gfx/interface/ideologies/vanguard_group.dds
     }
     spriteType = {
         name = GFX_ideology_rad_soc_group
-        texturefile= gfx/interface/rad_soc_group.dds
+        texturefile= gfx/interface/ideologies/rad_soc_group.dds
     }
     spriteType = {
         name = GFX_ideology_syn_group
-        texturefile= gfx/interface/syn_group.dds
+        texturefile= gfx/interface/ideologies/syn_group.dds
     }
     spriteType = {
         name = GFX_ideology_nat_syn_group
-        texturefile= gfx/interface/GFX_ideology_nat_syn_group.dds
+        texturefile= gfx/interface/ideologies/nat_syn_group.dds
     }
     spriteType = {
         name = GFX_ideology_facism_group

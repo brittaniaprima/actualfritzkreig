@@ -3,6 +3,6 @@
 music = {
 	name = "maintheme"
 	file = "hoi4mainthemeallies.ogg"
-	volume = 2
+	volume = 5
 }
 
