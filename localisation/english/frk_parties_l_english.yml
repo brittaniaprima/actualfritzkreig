@@ -29,27 +29,28 @@
    national_syndicalism:0 "National Syndicalism" 
    national_syndicalism_desc:0 "National Syndicalism is a far-right political ideology that combines elements of nationalism and syndicalism. It advocates for a corporatist economic system where industries are organized into syndicates representing workers and employers, under the control of a strong, authoritarian state that promotes national unity and traditional values."
 
+   
 
-   DEU_democratic_party_short:0 "SPD Right"
+   DEU_democratic_party:0 "SPD Right"
    DEU_democratic_party_long:0 "Sozialdemokratische Partei Deutschlands"
 
-   DEU_market_liberalism_party:0 "DFLP"
-   DEU_market_liberalism_party_long:0 "Deutsche Fortschrittliche Liberale Partei
+   DEU_mkt_lib_party:0 "DFLP"
+   DEU_mkt_lib_party_long:0 "Deutsche Fortschrittliche Liberale Partei"
 
-   DEU_social_liberalism_party:0 "LAP"
-   DEU_social_liberalism_party_long:0 "Liberale Allianz Partei"
+   DEU_soc_lib_party:0 "LAP"
+   DEU_soc_lib_party_long:0 "Liberale Allianz Partei"
    
-   DEU_national_conservatism_party:0 "PdDE"
-   DEU_national_conservatism_party_long:0 "Partei der Deutschen Einigkeit"
+   DEU_nat_con_party:0 "PdDE"
+   DEU_nat_con_party_long:0 "Partei der Deutschen Einigkeit"
    
-   DEU_radical_socialism_party:0 "SPD Left"
-   DEU_radical_socialism_party_long:0 "Sozialdemokratische Partei Deutschlands"
+   DEU_rad_soc_party:0 "SPD Left"
+   DEU_rad_soc_party_long:0 "Sozialdemokratische Partei Deutschlands"
    
-   DEU_syndicalism_party:0 "SPD left"
-   DEU_syndicalism_party_long:0 "Socialdemokratiesche Partei Deutschlands"
+   DEU_syn_party:0 "SPD left"
+   DEU_syn_party_long:0 "Socialdemokratiesche Partei Deutschlands"
 
-   DEU_national_syndicalism_party:0 "NSGP"
-   DEU_national_syndicalism_party_long:0 "Nationalsozialistische Germanische Partei"
+   DEU_nat_syn_party:0 "NSGP"
+   DEU_nat_syn_party_long:0 "Nationalsozialistische Germanische Partei"
 
 
 
