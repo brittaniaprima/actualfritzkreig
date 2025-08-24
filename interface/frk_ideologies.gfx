@@ -1,0 +1,47 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_ideology_democratic_group # Will be used for the "democratic" group.
+        texturefile = gfx/interface/ideologies/soc_dem_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_neutrality_group
+        texturefile= gfx/interface/soc_con_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_soc_lib_group
+        texturefile= gfx/interface/soc_lib_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_mkt_lib_group
+        texturefile= gfx/interface/mkt_lib_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_nat_con_group
+        texturefile= gfx/interface/nat_con_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_communism_group
+        texturefile= gfx/interface/nat_con_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_soc_lib_group
+        texturefile= gfx/interface/vanguardism_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_rad_soc_group
+        texturefile= gfx/interface/rad_soc_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_syn_group
+        texturefile= gfx/interface/syn_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_nat_syn_group
+        texturefile= gfx/interface/GFX_ideology_nat_syn_group.dds
+    }
+    spriteType = {
+        name = GFX_ideology_facism_group
+        texturefile= gfx/interface/facism_group.dds
+    }
+
+}
