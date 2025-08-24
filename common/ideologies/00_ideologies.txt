@@ -79,11 +79,11 @@ ideologies = {
 			}
 
 			despotism  = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+				
 			}
 
 			oligarchism  = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+				
 			}
 
 			anarchism = {
@@ -91,11 +91,11 @@ ideologies = {
 			}
 
 			moderatism = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+				
 			}
 
 			centrism = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+				
 			}
 
 		}
