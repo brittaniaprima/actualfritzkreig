@@ -1,14 +1,14 @@
 ideas = {
 	country = {
         DEU_pacifist_government = {
-            #picture =               
+            #picture = "idea_DEU_pacifists.dds"        
             modifier= {
                 war_support_weekly_factor = -0.05
             }
         }
 
         DEU_industrial_menace = {
-            #picture = 
+            picture = "idea_DEU_industrial_menace.dds"
             modifier{
                 production_speed_buildings_factor = 0.25
 		industrial_capacity_factory = 0.05
@@ -17,14 +17,14 @@ ideas = {
             }
         }
         DEU_mass_strikes = {
-            #picture = 
+            picture = "idea_DEU_strikes.dds"
             modifier{
                 consumer_goods_factor = 0.45
                 stability_weekly_factor = -0.03
             }
         }
         DEU_mercenary_armies = {
-            #picture = 
+            #picture = "idea_DEU_mercaneries.dds" 
             modifier{
                 conscription_factor = -0.3
             }
