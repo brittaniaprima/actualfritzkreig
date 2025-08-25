@@ -110,11 +110,3 @@ defined_text = {
 	localization_key = generic_null
 }
 
-defined_text = {
-	name = diplo_placeholder_tt
-	text = {
-		trigger = { is_debug = yes }
-		localization_key = diplo_placeholder_debug_tt
-	}
-	localization_key = generic_null
-}

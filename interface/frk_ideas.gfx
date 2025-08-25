@@ -4,15 +4,15 @@ spriteTypes = {
         texturefile = "gfx/interface/ideas/idea_DEU_industrial_menace.dds"
     }
     spriteType = {
-        name = GFX_idea_DEU_mercaneries
+        name = GFX_idea_DEU_mercenary_armies
         texturefile = "gfx/interface/ideas/idea_DEU_mercaneries.dds"
     }
     spriteType = {
-        name = GFX_idea_DEU_pacifists
+        name = GFX_idea_DEU_pacifist_government
         texturefile = "gfx/interface/ideas/idea_DEU_pacifists.dds"
     }
     spriteType = {
-        name = GFX_idea_DEU_strikes
+        name = GFX_idea_DEU_mass_strikes
         texturefile = "gfx/interface/ideas/idea_DEU_strikes.dds"
     }
 }
