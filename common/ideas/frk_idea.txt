@@ -1,7 +1,7 @@
 ideas = {
 	country = {
         DEU_pacifist_government = {
-            #picture = "idea_DEU_pacifists.dds"            
+            #picture = "idea_DEU_pacifists.dds"        
             modifier= {
                 war_support_weekly_factor = -0.05
             }
