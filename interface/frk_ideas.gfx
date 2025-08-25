@@ -1,6 +1,18 @@
 spriteTypes = {
     spriteType = {
-        name = GFX_ideology_democratic2_group # Will be used for the "democratic" group.
-        texturefile = gfx/interface/ideologies/soc_dem_group.dds
+        name = GFX_idea_DEU_industrial_menace
+        texturefile = "gfx/interface/ideas/idea_DEU_industrial_menace.dds"
+    }
+    spriteType = {
+        name = GFX_idea_DEU_mercaneries
+        texturefile = "gfx/interface/ideas/idea_DEU_mercaneries.dds"
+    }
+    spriteType = {
+        name = GFX_idea_DEU_pacifists
+        texturefile = "gfx/interface/ideas/idea_DEU_pacifists.dds"
+    }
+    spriteType = {
+        name = GFX_idea_DEU_strikes
+        texturefile = "gfx/interface/ideas/idea_DEU_strikes.dds"
     }
 }
