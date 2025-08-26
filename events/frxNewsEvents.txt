@@ -1,0 +1,14 @@
+add_namespace = frk_news_event
+add_namespace = deutschland
+
+news_event = {
+    id = frk_news_event.1
+    title = frk_news_event.1.t
+    picture = GFX_events_Austrian_Painter
+    desc = frk_news_event.1.d
+    is_triggered_only = yes
+    option = {
+        name = frk_news_event.1
+    }
+}
+
