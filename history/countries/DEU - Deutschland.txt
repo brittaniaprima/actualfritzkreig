@@ -206,9 +206,9 @@ add_to_faction = DEU
 # Setup of National Spirits
 add_ideas = {
 	sour_loser
-	limited_exports
-	limited_conscription
-	partial_economic_mobilisation
+	export_focus
+	volunteer_only
+	civillian_economy
 	DEU_VL_Kaiser_Wilhelm
 	DEU_pacifist_government
 	DEU_industrial_menace
