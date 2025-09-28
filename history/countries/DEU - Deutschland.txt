@@ -200,8 +200,9 @@ set_popularities = {
 }
 
 # Wowow nice faction
-create_faction = "The Central Powers"  
+create_faction = "The Triple Union"  
 add_to_faction = DEU
+add_to_faction = ITA
 
 # Setup of National Spirits
 add_ideas = {

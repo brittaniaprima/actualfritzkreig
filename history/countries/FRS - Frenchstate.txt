@@ -226,7 +226,7 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = natsyn
+	ruling_party = nat_syn
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -241,6 +241,9 @@ set_popularities = {
 add_ideas = {
 	limited_conscriptio
 }
+
+create_faction = "Syndicat Revanche"  
+add_to_faction = FRA
 
 recruit_character = FRA_philippe_petain
 recruit_character = FRA_maurice_thorez
