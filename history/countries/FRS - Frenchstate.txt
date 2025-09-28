@@ -243,7 +243,7 @@ add_ideas = {
 }
 
 create_faction = "Syndicat Revanche"  
-add_to_faction = FRA
+add_to_faction = FRS
 
 recruit_character = FRA_philippe_petain
 recruit_character = FRA_maurice_thorez

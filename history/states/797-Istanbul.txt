@@ -2,7 +2,7 @@ state={
 	id=797
 	name="STATE_797"
 	provinces={
-		9833
+		9833 
 	}
 	manpower = 1042276
 	resources={
@@ -34,7 +34,14 @@ state={
 		}
 		add_core_of = TUR
 		add_core_of = GRE
+		if = {
+			limit = { has_dlc = "Battle for the Bosporus"}
+			set_demilitarized_zone = no
+		}
 		
+		1936.11.9 = {
+			set_demilitarized_zone = no
+		}
 	}
 
 	local_supplies=0.0 

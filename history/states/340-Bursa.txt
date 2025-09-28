@@ -20,6 +20,7 @@ state={
 		victory_points = {
 			947 10
 		}
+
 		add_core_of = TUR
 		if = {
 			limit = { has_dlc = "Battle for the Bosporus" }
