@@ -1,6 +1,8 @@
 ﻿l_english:
+  FRS: "French state"
+  FRS_DEF: "The French state"
+  FRS_ADJ: "French"
   DEU: "German Empire"
-  FRA: "French State"
   HUN_fascism: "Danubian Confederation"
   HUN_fascism_DEF: "Danubian Confederation"
   HUN_democratic: "Danubian Confederation"

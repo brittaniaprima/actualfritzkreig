@@ -4,3 +4,8 @@ DEU = {
 	color_ui = rgb { 138 138 138 }
 }
 
+FRS = {
+	color = rgb { 9 0 114 }
+	color_ui = rgb { 138 138 138 }
+}
+
