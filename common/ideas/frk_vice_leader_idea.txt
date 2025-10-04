@@ -12,4 +12,34 @@ ideas = {
 
         }
     }
+
+
+
+
+
+
+
+
+
+	hidden_ideas = {
+        ENG_george_5th_brit = {
+            #picture = 
+            allowed = {
+                always = yes
+            }
+            allowed_civil_war = {
+                always = no
+            }                
+            traits = { popular_figurehead }
+
+        }
+    }
+
 }
+
+
+
+
+
+
+

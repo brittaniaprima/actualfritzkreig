@@ -62,3 +62,35 @@
    DEU_neutrality_party_long:0 "Deutsch Nationaldemokratische Partei/Zentrumspartei"
 
 
+
+
+
+   ENG_democratic_party:0 "Labour party"
+   ENG_democratic_party_long:0 "Labour party"
+
+   ENG_mkt_lib_party:0 "Liberal party"
+   ENG_mkt_lib_party_long:0 "Liberal party"
+
+   ENG_soc_lib_party:0 "Liberal party"
+   ENG_soc_lib_party_long:0 "Liberal party"
+   
+   ENG_nat_con_party:0 "BVP"
+   ENG_nat_con_party_long:0 "British Veterans party"
+   
+   ENG_rad_soc_party:0 "SPD Left"
+   ENG_rad_soc_party_long:0 "Labour party"
+   
+   ENG_syn_party:0 "Labour party"
+   ENG_syn_party_long:0 "Labour party"
+
+   ENG_nat_syn_party:0 "BVP"
+   ENG_nat_syn_party_long:0 "British Veterans party"
+
+   ENG_communism_party:0 "BSP"
+   ENG_communism_party_long:0 "British socialist party"
+
+   ENG_fascism_party:0 "BVP"
+   ENG_fascism_party_long:0 "British Veterans party"
+
+   ENG_neutrality_party:0 "Tory party"
+   ENG_neutrality_party_long:0 "Conservative and unionist party"

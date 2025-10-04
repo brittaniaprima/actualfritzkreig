@@ -200,9 +200,10 @@ set_popularities = {
 }
 
 # Wowow nice faction
-create_faction = "The Triple Union"  
+create_faction = "Berlin Convention"  
 add_to_faction = DEU
 add_to_faction = ITA
+add_to_faction = ENG
 
 # Setup of National Spirits
 add_ideas = {
