@@ -1,0 +1,45 @@
+ideas = {
+	country = {
+        ENG_IRA_terror = {
+
+            modifier= {
+                war_support_weekly_factor = -0.005
+                 stability_weekly_factor = -0.003
+            }
+        }
+        ENG_hankey_plan = {
+
+            modifier{
+		        industrial_capacity_factory = 0.05
+                consumer_goods_factor = 0.15
+            }
+        }
+        ENG_workers_strikes = {
+     
+            modifier{
+                consumer_goods_factor = 0.40
+                stability_weekly_factor = -0.003
+            }
+        }
+        ENG_Lansdownes_emb = {
+
+            modifier{
+                conscription_factor = -0.15
+            }
+        }
+        ENG_Demontfort_legion = {
+
+            modifier= {
+                war_support_weekly_factor = 0.01
+                conscription_factor = 0.2
+            }
+        }
+        ENG_Curzon_ambitions = {
+
+            modifier= {
+
+            }
+        }
+    }
+}
+    

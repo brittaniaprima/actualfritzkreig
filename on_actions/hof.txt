@@ -6,6 +6,12 @@ on_actions = {
                 add_ideas = DEU_VL_Gustav_Stresemann
             
             }
+
+             ENG = {
+                set_variable = { VL_status_var = 8 }
+                add_ideas = ENG_VL_george_5th
+            
+            }
         }
     }
 }

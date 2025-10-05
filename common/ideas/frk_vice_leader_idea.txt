@@ -22,7 +22,7 @@ ideas = {
 
 
 	hidden_ideas = {
-        ENG_george_5th_brit = {
+        ENG_VL_george_5th = {
             #picture = 
             allowed = {
                 always = yes

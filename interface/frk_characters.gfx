@@ -10,7 +10,7 @@ spriteTypes = {
 
 
     spriteType = {
-        name = GFX_george_5th_brit
+        name = GFX_ENG_VL_george_5th
         texturefile = gfx/leaders/ENG/Portrait_eng_george_5th_brit.dds
     }
 }

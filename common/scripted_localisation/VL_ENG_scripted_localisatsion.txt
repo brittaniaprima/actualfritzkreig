@@ -1,0 +1,44 @@
+defined_text = {
+    name = ENG_VL_picture
+	text = {
+		trigger = { has_idea = ENG_VL_george_5th }
+		localization_key = GFX_ENG_VL_george_5th
+    }
+	text = { localization_key = GFX_leader_unknown }
+}
+
+defined_text = {
+    name = ENG_VL_name
+	text = {
+		trigger = { has_idea = ENG_VL_george_5th}
+		localization_key = VL_name_ENG_VL_george_5th
+    }
+	text = { localization_key = VL_name }
+}
+
+defined_text = {
+    name = ENG_VL_state
+	text = {
+		trigger = { has_idea = ENG_VL_george_5th}
+		localization_key =  VL_state_ENG_VL_george_5th
+    }
+	text = { localization_key = VL_state }
+}
+
+defined_text = {
+    name = ENG_VL_Dip_state
+	text = {
+		trigger = { has_idea = ENG_VL_george_5th}
+		localization_key = VL_Dip_state_ENG_VL_george_5th
+    }
+	text = { localization_key = VL_Dip_state }
+}
+
+defined_text = {
+    name = ENG_VL_desc
+	text = {
+		trigger = { has_idea = ENG_VL_george_5th }
+		localization_key = VL_desc_ENG_VL_george_5th
+    }
+	text = { localization_key = VL_desc }
+}
