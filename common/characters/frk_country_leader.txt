@@ -19,7 +19,23 @@ characters = {
     }
 
 # uk
-
+ # edwin_montagu 
+    country_leader_gustav_stresemann = {
+        gender = Male
+        name = country_leader_edwin_montagu 
+        portraits = {
+            civilian = {
+                large = GFX_edwin_montagu 
+            }
+        }
+    
+        country_leader = {
+            ideology = market_liberalism
+            ideology = soc_lib
+            id = 69420
+            desc = country_leader_edwin_montagu_desc
+        }
+    }
 # france
 
 # China
