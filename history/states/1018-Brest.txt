@@ -1,0 +1,23 @@
+state={
+	id=1018
+	name="STATE_1018"
+	provinces={
+		3392 3256 11528 6546
+	}
+	manpower=93000
+	state_category=town
+	history = {
+		victory_points = {
+			3392 3
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		owner = UKR
+		add_core_of = UKR
+		add_claim_by = BLR
+        add_claim_by = POL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
