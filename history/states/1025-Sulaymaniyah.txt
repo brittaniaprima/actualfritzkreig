@@ -1,0 +1,25 @@
+state={
+	id=1023
+	name="STATE_1023"
+	provinces={
+		3916 5014 6826 8123
+	}
+	manpower=830
+	state_category=rural
+	history = {
+		owner = KUR
+		buildings = {
+			infrastructure = 2
+		}
+        victory_points = {
+			3916 3 
+		}
+		victory_points = {
+			6826 1
+		}
+        add_core_of = KUR
+        add_core_of = IRQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
