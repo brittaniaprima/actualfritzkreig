@@ -31,8 +31,8 @@ characters = {
     
         country_leader = {
             ideology = market_liberalism
-            ideology = soc_lib
-            id = 69420
+            ideology = social_liberalism
+            id = 69421
             desc = country_leader_edwin_montagu_desc
         }
     }
