@@ -2,17 +2,17 @@ state={
 	id=1024
 	name="STATE_1024"
 	provinces={
-		 535 3496 6232 6520 6556  6579 9554 11453 11503
+		535 3496 6232 6520 6556  6579 9554 11453 11503
 	}
 	manpower=830
 	state_category=rural
 	history = {
 		owner = SOV
-		buildings = {
-			infrastructure = 2
-		}
 		victory_points = {
 			6232 1
+		}
+		buildings = {
+			infrastructure = 2
 		}
 		add_core_of = SOV
         add_core_of = BLR
